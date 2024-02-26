@@ -186,7 +186,7 @@ let namesArr = ['Cameron', 'Riley', 'Eric', 'Brenna', 'Karl']
 */
 
 //CODE HERE
-
+console.log("the file has changed")
 
 ////////////////// PROBLEM 14 ////////////////////
 
